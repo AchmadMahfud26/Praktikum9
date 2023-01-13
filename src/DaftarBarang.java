@@ -1,7 +1,4 @@
-# PRATIKUM 9 GUI Event Drivent
-## Program :  
 
-```sv
 public class DaftarBarang extends javax.swing.JFrame {
 String MKode,MNama,MPengirim,MTanggal,MJenis,MJumlah,kode;
     /**
@@ -42,9 +39,9 @@ String MKode,MNama,MPengirim,MTanggal,MJenis,MJumlah,kode;
 
         jLabel2.setText("KODE BARANG");
 
-        jLabel3.setText("NAMA BARANG");
+        jLabel3.setText("NAMA BARANG      ");
 
-        jLabel4.setText("PENGIRIM/VENDOR");
+        jLabel4.setText("VENDOR        ");
 
         jLabel5.setText("TANGGAL PENGIRIMAN");
 
@@ -258,5 +255,3 @@ String MKode,MNama,MPengirim,MTanggal,MJenis,MJumlah,kode;
     private javax.swing.JLabel jLabel7;
     // End of variables declaration//GEN-END:variables
 }
-```
-## Output : 
